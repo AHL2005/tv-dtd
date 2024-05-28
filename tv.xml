@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv>
+    <channel id="FDF.TV">
+        <display-name>FDF.TV</display-name>
+    </channel>
+    <programme start="20240528130500 +0000" stop="20240528150000 +0000" channel="FDF.TV">
+        <title>La que se avecina (T7): Ep.87 Un kit de terrorista, una yoko ono y una visita alienígena</title>
+        <desc lang="es">Brillante parodia de la vida cotidiana de cualquier comunidad de vecinos a través de unos personajes que se relacionan con desconfianza y alimentan con su maldad intrínseca unas tramas surrealistas llenas de obsesiones personales y vecinales.</desc>
+        <date>28/02/2024</date>
+        <category>Series</category>
+        <language>Español</language>
+        <length units="minutes">120</length>
+        <icon src="https://www.movistarplus.es/recorte/n/caratula4/MFDFICP1127202" width="130" height="120"/>
+        <url>https://www.factoriadeficcion.com/series/</url>
+        <country>España</country>
+    </programme>
+    <programme start="20240528150000 +0000" stop="20240528170000 +0000" channel="FDF.TV">
+        <title>La que se avecina (T12): Ep.14 Un exilio rural, un exorcismo químico y la revolución de los payasos justicieros</title>
+        <desc lang="es">En junta clandestina, los vecinos deciden investigar a Fina Palomares. Antonio comprueba que el movimiento de los payasos justicieros está calando y provoca que miles de seguidores alteren el orden público en las calles.</desc>
+        <date>28/05/2024</date>
+        <category>Series</category>
+        <language>Español</language>
+        <length units="minutes">120</length>
+        <icon src="https://www.movistarplus.es/recorte/n/caratula4/MFDFICP2062376" width="130" height="120"/>
+        <url>https://www.factoriadeficcion.com/series/</url>
+        <country>España</country>
+    </programme>
+    <programme start="20240528170000 +0000" stop="20240528183000 +0000" channel="FDF.TV">
+        <title>La que se avecina (T12): Ep.15 Una fuga playera, un santuario para mayoristas y el retorno del detective León</title>
+        <desc lang="es">Brillante parodia de la vida cotidiana de cualquier comunidad de vecinos a través de unos personajes que se relacionan con desconfianza y alimentan con su maldad intrínseca unas tramas surrealistas llenas de obsesiones personales y vecinales.</desc>
+        <date>28/05/2024</date>
+        <category>Series</category>
+        <language>Español</language>
+        <length units="minutes">120</length>
+        <icon src="https://www.movistarplus.es/recorte/n/caratula4/MFDFICP2064569" width="130" height="120"/>
+        <url>https://www.factoriadeficcion.com/series/</url>
+        <country>España</country>
+    </programme>
+    <programme start="20240528183000 +0000" stop="20240528204000 +0000" channel="FDF.TV">
+        <title>La que se avecina (T9): Ep.116 Un beach club, un zahorí de pueblo y una vecina sin vagina</title>
+        <desc lang="es">Brillante parodia de la vida cotidiana de cualquier comunidad de vecinos a través de unos personajes que se relacionan con desconfianza y alimentan con su maldad intrínseca unas tramas surrealistas llenas de obsesiones personales y vecinales.</desc>
+        <date>28/05/2024</date>
+        <category>Series</category>
+        <language>Español</language>
+        <length units="minutes">120</length>
+        <icon src="https://www.movistarplus.es/recorte/n/caratula4/MFDFICP1283382" width="130" height="120"/>
+        <url>https://www.factoriadeficcion.com/series/</url>
+        <country>España</country>
+    </programme>
+    <programme start="20240528230000 +0000" stop="20240529012500 +0000" channel="FDF.TV">
+        <title>La que se avecina (T12): Ep.8 Un plan sibilino, un mayorista animalista y un broche cultural</title>
+        <desc lang="es">Brillante parodia de la vida cotidiana de cualquier comunidad de vecinos a través de unos personajes que se relacionan con desconfianza y alimentan con su maldad intrínseca unas tramas surrealistas llenas de obsesiones personales y vecinales.</desc>
+        <date>28/05/2024</date>
+        <category>Series</category>
+        <language>Español</language>
+        <length units="minutes">120</length>
+        <icon src="https://www.movistarplus.es/recorte/n/caratula4/MFDFICP1845764" width="130" height="120"/>
+        <url>https://www.factoriadeficcion.com/series/</url>
+        <country>España</country>
+    </programme>
+</tv>
